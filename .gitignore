@@ -1,1 +1,6 @@
 ./platforms/android/bin/*
+./platforms/android/bin/*.apk
+./platforms/android/bin/*.ap_
+./platforms/android/bin/build.prop
+./platforms/android/bin/dexedLibs
+.DS_Store
