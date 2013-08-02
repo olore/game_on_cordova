@@ -1,6 +1,7 @@
 .DS_Store
 platforms/android/bin
 platforms/android/gen
+platforms/android/assets
 platforms/android/local.properties
 
 # From https://github.com/github/gitignore/blob/master/Android.gitignore
