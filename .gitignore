@@ -1,6 +1,9 @@
-./platforms/android/bin/*
-./platforms/android/bin/*.apk
-./platforms/android/bin/*.ap_
-./platforms/android/bin/build.prop
-./platforms/android/bin/dexedLibs
+platforms/android/bin/*
+platforms/android/bin/*.apk
+platforms/android/bin/*.ap_
+platforms/android/bin/build.prop
+platforms/android/bin/dexedLibs
+platforms/android/bin/build.prop
+platforms/android/assets/www/config.xml
+platforms/android/assets/www/cordova_plugins.js
 .DS_Store
