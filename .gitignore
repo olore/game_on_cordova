@@ -1,6 +1,16 @@
 .DS_Store
-platforms/android/bin/*.apk
-platforms/android/bin/*.ap_
-platforms/android/bin/build.prop
-platforms/android/bin/dexedLibs
-platforms/android/bin/build.prop
+platforms/android/bin
+platforms/android/gen
+platforms/android/local.properties
+
+# From https://github.com/github/gitignore/blob/master/Android.gitignore
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
